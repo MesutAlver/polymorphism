@@ -4,4 +4,4 @@
 Zoo Management System
 ```
 
-![image](https://resimlink.com/BulYEUxb)
+![image](https://r.resimlink.com/ot0s.jpg)
