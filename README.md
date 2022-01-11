@@ -1,7 +1,7 @@
 # polymorphism
 
 ```
-Zoom Management System
+Zoo Management System
 ```
 
-[![image](https://r.resimlink.com/BulYEUxb.png)](https://resimlink.com/BulYEUxb)
+![image](https://resimlink.com/BulYEUxb)
