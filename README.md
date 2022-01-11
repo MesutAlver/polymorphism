@@ -1,3 +1,3 @@
 # polymorphism
 
-[!Image](https://imgyukle.com/i/oO8rxf)
+[!Image](https://ibb.co/PmD6JRB)
