@@ -1,7 +1,7 @@
 # polymorphism
 
 ```
-Hayvanat bahçesi Yönetim Sistemi
+Zoom Management System
 ```
 
-![image](https://r.resimlink.com/Q9m3TKJ.jpeg)
+[![image](https://r.resimlink.com/BulYEUxb.png)](https://resimlink.com/BulYEUxb)
