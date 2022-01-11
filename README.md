@@ -1,3 +1,3 @@
 # polymorphism
 
-![Image](https://r.resimlink.com/ZqS6.jpeg)
+[!Image](https://r.resimlink.com/ZqS6.jpeg)
