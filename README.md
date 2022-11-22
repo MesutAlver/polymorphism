@@ -4,4 +4,7 @@
 Zoo Management System
 ```
 
-![Image](https://r.resimlink.com/HUkb.jpg)
+<img src="https://i.hizliresim.com/rtt3oc0.jpeg"/>
+
+# COOL
+
